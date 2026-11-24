@@ -1,37 +1,22 @@
-<!-- 
-
-We are using following structure:
-
-<p align="center">
-    <img
-    src="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Caption.png"
-    alt="Jackson quick start json serialization with java made easy caption!"
-    style="width:1600px;height:120px;"
-    />
-</p> 
-<p align="center">
-    <img
-    id="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Description?trk=public_profile_see-credential" src="Jackson_Quick_Start_JSON_Serialization_With_Java_Made_Easy_Description.png"
-    alt="Jackson quick start json serialization with java made easy description!"
-    style="width:590px; height:160px;"
-    />
-</p>
-
--->
-
-# IaC-DevOps.
-
-<!-- <p align="center">
+<p 
+align="center">
     <img 
-    src="Java_Advanced_Caption.png" 
-    id="studying" 
+    src="Cloud_Tools_DevOps_Graphics_Caption.png"
+    id="Cloud_Tools_DevOps_Graphics_Caption?trk=public_profile_see-credential" 
     width="900" height="140"
     />
-</p> -->
+    <br>
+    Attempt to study <b>IaC</b> and <b>DevOps</b> related things!
+</p> 
 
-<p align="center">
-    <img src="Java_Karate_Kid__Repository_Graphics.png" alt="Java Karate Kid Graphic!" width="500" height="350"><br>
-    Attempt to study <b>Java</b> itself! Some things which are <b>related</b> to advanced level!
+<p 
+align="center">
+    <img
+    src="IaC_And_DevOps_Graphics.gif"
+    id="IaC_And_DevOps_Graphics?trk=public_profile_see-credential" 
+    alt="IaC and devOps graphics!"
+    style="width:490px; height:560px;"
+    />
 </p>
 
 - For these courses one should configure **GIT** for handle projects.
@@ -85,9 +70,9 @@ Linkedin puts this shit front, when clicking from private mode x(. Need to put t
 id="Logo_Combination" 
 align="center">
     <img 
-    src="Nordea_With_Latests_Of_Technologies.jpeg" 
+    src="Nordea_With_Latests_Of_Technologies.gif" 
     alt="Nordea with latests of technologies!" 
-    style="width:590px;height:440px;"
+    style="width:500px;height:550px;"
     />
     <img
     src="Terraform_For_The_Absolute_Beginners_With_Labs_Certificate.jpg"
